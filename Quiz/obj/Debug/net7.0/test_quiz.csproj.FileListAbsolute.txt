@@ -1,0 +1,15 @@
+C:\Users\marc\Desktop\PRO\Développeur .NET - La Manu\Projets\Dot .Net - Module 1\Projet 1 - Application console\projet_quizz_C_sharp\test_quiz\bin\Debug\net7.0\test_quiz.exe
+C:\Users\marc\Desktop\PRO\Développeur .NET - La Manu\Projets\Dot .Net - Module 1\Projet 1 - Application console\projet_quizz_C_sharp\test_quiz\bin\Debug\net7.0\test_quiz.deps.json
+C:\Users\marc\Desktop\PRO\Développeur .NET - La Manu\Projets\Dot .Net - Module 1\Projet 1 - Application console\projet_quizz_C_sharp\test_quiz\bin\Debug\net7.0\test_quiz.runtimeconfig.json
+C:\Users\marc\Desktop\PRO\Développeur .NET - La Manu\Projets\Dot .Net - Module 1\Projet 1 - Application console\projet_quizz_C_sharp\test_quiz\bin\Debug\net7.0\test_quiz.dll
+C:\Users\marc\Desktop\PRO\Développeur .NET - La Manu\Projets\Dot .Net - Module 1\Projet 1 - Application console\projet_quizz_C_sharp\test_quiz\bin\Debug\net7.0\test_quiz.pdb
+C:\Users\marc\Desktop\PRO\Développeur .NET - La Manu\Projets\Dot .Net - Module 1\Projet 1 - Application console\projet_quizz_C_sharp\test_quiz\obj\Debug\net7.0\test_quiz.csproj.AssemblyReference.cache
+C:\Users\marc\Desktop\PRO\Développeur .NET - La Manu\Projets\Dot .Net - Module 1\Projet 1 - Application console\projet_quizz_C_sharp\test_quiz\obj\Debug\net7.0\test_quiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marc\Desktop\PRO\Développeur .NET - La Manu\Projets\Dot .Net - Module 1\Projet 1 - Application console\projet_quizz_C_sharp\test_quiz\obj\Debug\net7.0\test_quiz.AssemblyInfoInputs.cache
+C:\Users\marc\Desktop\PRO\Développeur .NET - La Manu\Projets\Dot .Net - Module 1\Projet 1 - Application console\projet_quizz_C_sharp\test_quiz\obj\Debug\net7.0\test_quiz.AssemblyInfo.cs
+C:\Users\marc\Desktop\PRO\Développeur .NET - La Manu\Projets\Dot .Net - Module 1\Projet 1 - Application console\projet_quizz_C_sharp\test_quiz\obj\Debug\net7.0\test_quiz.csproj.CoreCompileInputs.cache
+C:\Users\marc\Desktop\PRO\Développeur .NET - La Manu\Projets\Dot .Net - Module 1\Projet 1 - Application console\projet_quizz_C_sharp\test_quiz\obj\Debug\net7.0\test_quiz.dll
+C:\Users\marc\Desktop\PRO\Développeur .NET - La Manu\Projets\Dot .Net - Module 1\Projet 1 - Application console\projet_quizz_C_sharp\test_quiz\obj\Debug\net7.0\refint\test_quiz.dll
+C:\Users\marc\Desktop\PRO\Développeur .NET - La Manu\Projets\Dot .Net - Module 1\Projet 1 - Application console\projet_quizz_C_sharp\test_quiz\obj\Debug\net7.0\test_quiz.pdb
+C:\Users\marc\Desktop\PRO\Développeur .NET - La Manu\Projets\Dot .Net - Module 1\Projet 1 - Application console\projet_quizz_C_sharp\test_quiz\obj\Debug\net7.0\test_quiz.genruntimeconfig.cache
+C:\Users\marc\Desktop\PRO\Développeur .NET - La Manu\Projets\Dot .Net - Module 1\Projet 1 - Application console\projet_quizz_C_sharp\test_quiz\obj\Debug\net7.0\ref\test_quiz.dll

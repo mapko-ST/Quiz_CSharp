@@ -1,0 +1,11 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = test_quiz
+build_property.ProjectDir = C:\Users\marc\Desktop\PRO\Développeur .NET - La Manu\Projets\Dot .Net - Module 1\Projet 1 - Application console\projet_quizz_C_sharp\test_quiz\
